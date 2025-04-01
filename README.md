@@ -1,0 +1,4 @@
+- ferreiranicoly232
+- colegio-vila industrial
+- estudante do ensino medio
+- 
