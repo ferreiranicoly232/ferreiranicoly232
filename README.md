@@ -2,5 +2,5 @@
 - colegio-vila industrial
 - estudante do ensino medio
 - profissâo que eu quero esercer-medicina
-- habilidade-extrovertida
+- habilidade-comunicativa
 - gosto de jogar volei 
