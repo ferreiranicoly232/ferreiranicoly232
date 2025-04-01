@@ -3,3 +3,4 @@
 - estudante do ensino medio
 - profissâo que eu quero esercer-medicina
 - habilidade-extrovertida
+- gosto de jogar volei 
